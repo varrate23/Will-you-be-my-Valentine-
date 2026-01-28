@@ -57,11 +57,11 @@ const messages = [
     "Are you sure?",
     "Really sure??",
     "Are you positive?",
-    "Pookie please...",
+    "Cmon just say yes",
     "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
+    "Noodle said you have to say yes.",
+    "Please say yes!",
+    "just say yes",
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please! ❤️"
 ];
